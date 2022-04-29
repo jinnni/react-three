@@ -1,0 +1,27 @@
+Brother study material:
+
+https://www.geeksforgeeks.org/how-to-redirect-to-another-page-in-reactjs/
+
+how t vertically and horizontally centerize the div: https://stackoverflow.com/questions/12415661/using-marginauto-to-vertically-align-a-div
+
+https://www.geeksforgeeks.org/how-to-change-the-state-of-react-component-on-click/
+
+https://reactjs.org/docs/handling-events.html
+
+https://stackoverflow.com/questions/22876978/loop-inside-react-jsx
+
+http://expressjs.com/en/api.html#express
+
+https://masteringjs.io/tutorials/express/app-use-static
+
+https://gepolv.github.io/redirect/sendfile/express/node/2016/08/13/lessons-learned-in-sending-files-in-nodejs.html
+
+https://www.techiediaries.com/express-sendfile-serve-static-files/
+
+https://reactjs.org/docs/dom-elements.html#style
+
+https://docs.pmnd.rs/react-three-fiber/tutorials/loading-models
+
+https://stackoverflow.com/questions/18642828/origin-origin-is-not-allowed-by-access-control-allow-origin
+
+https://www.codingdeft.com/posts/nodejs-react-cors-error/
